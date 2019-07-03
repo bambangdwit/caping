@@ -1,4 +1,2 @@
-caping
-==Nuyul Coin apk CAPING
-
-Sertakan sumber :)
+=
+Nuyul Koin APK CAPING
