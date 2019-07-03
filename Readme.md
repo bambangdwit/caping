@@ -1,6 +1,6 @@
-"=====================
+
 Nuyul Koin APK CAPING
-"=====================
+=====================
 
 "$ pkg install git
 "$ pkg install php
