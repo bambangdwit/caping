@@ -2,12 +2,12 @@
 Nuyul Koin APK CAPING
 =====================
 
-Perintah Pertama
+## Perintah Pertama
 
-= $ pkg install git
-= $ pkg install php
-= $ pkg upgrade && pkg update
-= $ termux-setup-storage
+$ pkg install git
+$ pkg install php
+$ pkg upgrade && pkg update
+$ termux-setup-storage
 
 ## Perintah nuyulnya
 
