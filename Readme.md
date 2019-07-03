@@ -2,6 +2,17 @@
 Nuyul Koin APK CAPING
 =====================
 
+#### Table of contents
+
+* [Algorithms](#algorithms)
+* [Dependencies](#dependencies)
+* [Download](#download)
+* [Build](#build)
+* [Usage instructions](#usage-instructions)
+* [Donations](#donations)
+* [Credits](#credits)
+* [License](#license)
+
 "$ pkg install git
 "$ pkg install php
 "$ pkg upgrade && pkg update
