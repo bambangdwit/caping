@@ -1,8 +1,8 @@
-=====================
+*=====================
 Nuyul Koin APK CAPING
-=====================
+*=====================
 
-$ pkg install git
+*$ pkg install git
 $ pkg install php
 $ pkg upgrade && pkg update
 $ termux-setup-storage
