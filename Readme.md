@@ -4,7 +4,7 @@ Nuyul Koin APK CAPING
 
 #### Table of contents
 
-* [Algorithms](#algorithms)
+* $ pkg install git
 * [Dependencies](#dependencies)
 * [Download](#download)
 * [Build](#build)
@@ -13,7 +13,7 @@ Nuyul Koin APK CAPING
 * [Credits](#credits)
 * [License](#license)
 
-"$ pkg install git
+
 "$ pkg install php
 "$ pkg upgrade && pkg update
 "$ termux-setup-storage
