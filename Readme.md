@@ -3,9 +3,11 @@ Nuyul Koin APK CAPING
 =====================
 
 ## Aplikasi APK
-Aplikasi Caping DISINI
-Aplikasi Termux DISINI
-Aplikasi SSL Capture
+
+* Aplikasi Caping
+* Aplikasi Termux
+* Aplikasi SSL Capture
+
 
 ## Perintah Pertama
 
@@ -13,6 +15,7 @@ Aplikasi SSL Capture
 * $ pkg install php
 * $ pkg upgrade && pkg update
 * $ termux-setup-storage
+
 
 ## Perintah nuyulnya
 
