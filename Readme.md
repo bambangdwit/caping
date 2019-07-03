@@ -29,4 +29,5 @@ Nuyul Koin APK CAPING
 * delay minimal [5-20]: 5
 
 ## Reff:
+Thank's to:
 https://www.kumpulanremaja.com/2019/01/nuyul-caping-dengan-termux.html
